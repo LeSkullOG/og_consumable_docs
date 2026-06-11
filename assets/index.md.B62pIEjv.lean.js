@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as e,a2 as t}from"./chunks/framework.DFMuOsAC.js";const E=JSON.parse('{"title":"OG Consumable","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"};function l(h,s,r,p,k,d){return a(),e("div",null,[...s[0]||(s[0]=[t("",10)])])}const c=i(n,[["render",l]]);export{E as __pageData,c as default};
